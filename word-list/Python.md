@@ -61,3 +61,4 @@ feedback
 sinusoidal
 
 
+增补来源：* [Python 词汇表](https://www.w3schools.com/python/python_ref_glossary.asp#/)
